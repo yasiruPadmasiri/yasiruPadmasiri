@@ -69,8 +69,7 @@
   
 ### 💻 Web Development
 <p align="left"> 
-  
-  &emsp; 
+
   <a href="https://reactjs.org/" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
   </a>
